@@ -6,6 +6,9 @@ class GitCashier < Formula
   homepage "https://github.com/bpolly/git-cashier"
   url "https://github.com/bpolly/git-cashier/blob/master/archive/git-cashier-v1.0.0.zip"
   sha256 "a8bb19fb83464e353db8e11978d7121442c73459ca9cf9707f4555b47b140787"
+  version "1.0.0"
+
+  bottle :unneeded
 
   # depends_on "cmake" => :build
 
