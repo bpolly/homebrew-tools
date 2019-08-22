@@ -4,8 +4,8 @@
 class GitCashier < Formula
   desc "Helps you checkout. Easily switch between git branches"
   homepage "https://github.com/bpolly/git-cashier"
-  url "https://github.com/bpolly/git-cashier/blob/master/archive/git-cashier-1.0.0.tar.gz"
-  sha256 "d79deff550507a4f482fc6658f0f2b82e8e5106bc7f26f8f1cf79071ffc26f72"
+  url "https://github.com/bpolly/git-cashier/blob/master/archive/git-cashier-v1.0.0.zip"
+  sha256 "13e52c6bc55fd8ade1d425e2fa97dc6553a551d80c532cc5629b1fb055ad1665"
 
   # depends_on "cmake" => :build
 
