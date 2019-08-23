@@ -4,8 +4,8 @@
 class GitCashier < Formula
   desc "Helps you checkout. Easily switch between git branches"
   homepage "https://github.com/bpolly/git-cashier"
-  url "https://github.com/bpolly/git-cashier/blob/master/archive/git-cashier-v1.0.0.tar.gz"
-  sha256 "ee85e78bfe8f6c0239965c30bf7de9a2aa7d1d3c336f911b7180a5f83a1fbd33"
+  url "https://github.com/bpolly/git-cashier/archive/v1.0.0.tar.gz"
+  sha256 "26e704331e78c565cf3bc2c1e89fba43e2d1a2cab162024a9808ac968a3d0bde"
   version "1.0.0"
 
   bottle :unneeded
