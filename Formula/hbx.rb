@@ -8,7 +8,6 @@ class Hbx < Formula
   sha256 "ab1bdfa6205917cf2e9a904bf827d300d3918c587e0acc40d9304873cf49ad12"
   version "1.0.0"
 
-  bottle :unneeded
   depends_on "screen"
 
   def install
